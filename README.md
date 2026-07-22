@@ -52,7 +52,7 @@
 ## 📈 GitHub Telemetry
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=R-Mishra0201&show_icons=true&theme=tokyonight&hide_border=true" alt="Rahul's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=R-Mishra25&show_icons=true&theme=tokyonight&hide_border=true" alt="Rahul's GitHub Stats" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-Mishra0201&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
