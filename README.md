@@ -1,7 +1,14 @@
 <h1 align="center">Hi there, I'm Rahul Mishra 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7931E&center=true&vCenter=true&width=500&lines=Software+Development+Engineer;Building+Scalable+Web+Architectures;MERN+Stack+%7C+Next.js+%7C+TypeScript;Open+to+SDE+Roles+%26+Collaboration" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7931E&center=true&vCenter=true&width=600&lines=Software+Development+Engineer;Building+Scalable+Web+Architectures;MERN+Stack+%7C+Next.js+%7C+TypeScript;Open+to+SDE+Roles+%26+Collaboration" alt="Typing animation" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/rahulmishra25"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://wa.me/919599367759"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="mailto:rm9193421@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=R-Mishra25&style=for-the-badge&color=F7931E" alt="Profile views" />
 </p>
 
 ---
@@ -23,19 +30,28 @@
 
 ## 🛠️ Technical Stack
 
-**Frontend Architecture:**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,nodejs,express,mongodb,mysql,prisma,git,vercel,figma&theme=dark" />
+</p>
+
+<details>
+<summary>📋 Detailed breakdown (click to expand)</summary>
+
+**Frontend Architecture**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Framer Motion](https://img.shields.io/badge/Framer--Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38b2ac?style=for-the-badge&logo=tailwind-css)
 
-**Backend & Databases:**
+**Backend & Databases**
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+</details>
 
 ---
 
@@ -52,10 +68,31 @@
 ## 📈 GitHub Telemetry
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=R-Mishra25&show_icons=true&theme=tokyonight&hide_border=true" alt="Rahul's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-Mishra0201&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=R-Mishra25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rahul's GitHub Stats" />
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=R-Mishra25&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-Mishra25&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<details>
+<summary>🏆 GitHub Trophies (click to expand)</summary>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=R-Mishra25&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+</details>
+
+---
+
+## 🐍 Live Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/R-Mishra25/R-Mishra25/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+</p>
+
+> This animation regenerates automatically every day via GitHub Actions — see `.github/workflows/snake.yml` below.
 
 ---
 
