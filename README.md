@@ -8,7 +8,7 @@
   <a href="https://linkedin.com/in/rahulmishra25"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://wa.me/919599367759"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="mailto:rm9193421@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=R-Mishra25&style=for-the-badge&color=F7931E" alt="Profile views" />
+  <!-- <img src="https://komarev.com/ghpvc/?username=R-Mishra25&style=for-the-badge&color=F7931E" alt="Profile views" /> -->
 </p>
 
 ---
@@ -67,15 +67,15 @@
 
 ## 📈 GitHub Telemetry
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=R-Mishra25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rahul's GitHub Stats" />
-</p>
+</p> -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=R-Mishra25&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-Mishra25&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+</p> -->
 
 <details>
 <summary>🏆 GitHub Trophies (click to expand)</summary>
