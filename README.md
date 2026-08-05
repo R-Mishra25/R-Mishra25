@@ -65,37 +65,6 @@
 
 ---
 
-## 📈 GitHub Telemetry
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=R-Mishra25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rahul's GitHub Stats" />
-</p> -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=R-Mishra25&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-Mishra25&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p> -->
-
-<details>
-<summary>🏆 GitHub Trophies (click to expand)</summary>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=R-Mishra25&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-</details>
-
----
-
-## 🐍 Live Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/R-Mishra25/R-Mishra25/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
-</p>
-
-> This animation regenerates automatically every day via GitHub Actions — see `.github/workflows/snake.yml` below.
-
----
-
 ## 🌐 Network
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulmishra25)
