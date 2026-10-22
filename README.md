@@ -1,16 +1,21 @@
-
-<!-- =========================================================
-     RAHUL MISHRA | DATA ANALYST + SOFTWARE ENGINEER
-     GitHub Profile README
-========================================================== -->
+<!--
+  Rahul Mishra | Data Analyst & Data Engineer
+  GitHub Profile README
+  Keep project status and skills accurate; update as projects progress.
+-->
 
 <div align="center">
 
 # Hi, I'm Rahul Mishra 👋
 
-### Data Analyst · Full-Stack Developer · Problem Solver
+### Data Analyst · Data Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Turning+Raw+Data+into+Business+Insights;SQL+%7C+Python+%7C+Advanced+Excel;Learning+Power+BI+%26+Data+Engineering;Building+Scalable+Full-Stack+Applications" alt="Animated introduction" />
+<p>
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&height=80&lines=Turning+Data+into+Actionable+Insights;SQL+%7C+Python+%7C+Advanced+Excel;Exploring+ETL+and+Data+Warehousing;Building+Reliable+Analytics+Workflows"
+    alt="Data analytics typing animation"
+  />
+</p>
 
 <p>
   <a href="https://linkedin.com/in/rahulmishra25">
@@ -20,10 +25,7 @@
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/R-Mishra25">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://wa.me/919599367759">
-    <img src="https://img.shields.io/badge/WhatsApp-Connect-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" />
   </a>
 </p>
 
@@ -32,52 +34,43 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-I'm a data-focused professional and software developer interested in
-turning business problems into measurable insights and reliable applications.
+I'm a data-focused professional with a background in MIS and Audit & Assurance operations. I work with reporting and data validation and am building deeper skills in analytics, automation, and data engineering.
 
-- 📊 **Data Analytics:** Exploring datasets, validating data, writing SQL queries,
-  automating Excel workflows, and building analytical reports.
-- 💻 **Software Engineering:** Building full-stack applications with React,
-  Node.js, Express, MongoDB, and modern JavaScript.
-- ⚙️ **Automation:** Interested in eliminating repetitive reporting and
-  validation tasks through Python, SQL, and workflow automation.
-- 🧠 **Engineering mindset:** Focused on data quality, maintainable code,
-  performance, security, and practical business outcomes.
+- 📊 **Analytics:** SQL querying, data validation, Excel reporting, and business-focused analysis.
+- 🐍 **Python:** Developing skills in data cleaning, analysis, and workflow automation.
+- 🧱 **Data engineering:** Learning ETL workflows, data modeling, and data warehouse concepts.
+- 📈 **Business intelligence:** Building skills in Power BI, DAX, and dashboard design.
 - 🎓 **Education:** Bachelor of Computer Applications (BCA), IGNOU — completed in 2026.
-- 💼 **Professional background:** MIS and Audit & Assurance operations,
-  including data validation, reporting, and discrepancy identification.
-- 🎯 **Current goal:** Grow into Data Analytics while continuing to develop
-  production-oriented software engineering skills.
+- 🎯 **Goal:** Turn messy data into reliable datasets, useful insights, and repeatable reporting workflows.
 
-> I enjoy working at the intersection of data, automation, and software
-> engineering — from analyzing raw data to building tools that make work easier.
+> I’m interested in the complete data journey: from source data and validation to analysis, modeling, visualization, and business decisions.
 
 ---
 
-## 🧭 What I'm Working On
+## 🧭 Current Focus
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>📊 Data Analytics</h3>
       <ul>
-        <li>Advanced SQL and analytical queries</li>
-        <li>Python, Pandas, and data cleaning</li>
+        <li>SQL joins, aggregations, CTEs, and window functions</li>
         <li>Advanced Excel and reporting automation</li>
-        <li>Power BI, DAX, and dashboard design</li>
-        <li>Data warehouses and dimensional modeling</li>
+        <li>Python, Pandas, and exploratory data analysis</li>
+        <li>Power BI, DAX, and KPI dashboards</li>
+        <li>Communicating findings with business context</li>
       </ul>
     </td>
-    <td width="50%">
-      <h3>💻 Software Engineering</h3>
+    <td width="50%" valign="top">
+      <h3>⚙️ Data Engineering Foundations</h3>
       <ul>
-        <li>React and Next.js applications</li>
-        <li>Node.js, Express, and REST APIs</li>
-        <li>MongoDB and relational databases</li>
-        <li>Authentication and authorization</li>
-        <li>Testing, Git, deployment, and clean code</li>
+        <li>Data cleaning and quality checks</li>
+        <li>ETL and transformation workflows</li>
+        <li>Relational modeling and star schemas</li>
+        <li>Data warehouse design concepts</li>
+        <li>Documented, repeatable data workflows</li>
       </ul>
     </td>
   </tr>
@@ -87,58 +80,54 @@ turning business problems into measurable insights and reliable applications.
 
 ## 🛠️ Technical Skills
 
-### 📈 Data Analytics & Business Intelligence
+### 📈 Data Analytics & Visualization
 
-<!-- Data Analytics & Visualization -->
-<h3 align="left">📊 Data Analytics & Visualization</h3>
-
-<p align="left">
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
+<p>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
-</p>
-**Focus areas:** Data cleaning, exploratory data analysis (EDA), KPI reporting,
-data validation, SQL joins and aggregations, Excel automation, ETL concepts,
-data modeling, dashboarding, and business intelligence.
-
-### 💻 Software Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,mysql,git,github,postman,vercel&theme=dark" alt="Software development technologies" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
 </p>
 
-**Focus areas:** Responsive UI development, REST APIs, CRUD operations,
-authentication, API integration, database design, state management,
-application deployment, and reusable components.
+**Areas:** Data validation, data cleaning, exploratory data analysis, KPI reporting, SQL joins and aggregations, Excel automation, data visualization, and business intelligence.
 
-### 🗄️ Databases & Developer Tools
+### 🧱 Data Engineering & Databases
 
 <p>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
+  <img src="https://img.shields.io/badge/ETL-Data%20Pipelines-4051B5?style=for-the-badge" alt="ETL and data pipelines" />
+  <img src="https://img.shields.io/badge/Data%20Warehousing-Modeling-6A5ACD?style=for-the-badge" alt="Data warehousing and modeling" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+**Areas:** Data quality checks, relational databases, transformation logic, dimensional modeling, star schemas, and warehouse fundamentals.
+
+### 🧰 Tools
+
+<p>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
 <details>
-  <summary><b>🔍 Explore my technical focus areas</b></summary>
+  <summary><b>🔍 Skill map and concepts</b></summary>
 
-  | Area | Technologies / Concepts |
+  | Category | Tools and concepts |
   |---|---|
-  | Data analysis | SQL, Excel, Python, Pandas |
-  | Data visualization | Power BI, DAX, Matplotlib |
-  | Data engineering foundations | ETL, data cleaning, star schemas, data warehouses |
-  | Frontend | React, Next.js, JavaScript, TypeScript |
-  | Backend | Node.js, Express.js, REST APIs |
+  | Querying | SQL Server, SQL joins, aggregations, CTEs, window functions |
+  | Analysis | Excel, Python, Pandas, exploratory data analysis |
+  | Visualization | Power BI, DAX, Matplotlib |
+  | Data engineering | ETL concepts, data quality, dimensional modeling, data warehouses |
   | Databases | SQL Server, MySQL, MongoDB |
-  | Development workflow | Git, GitHub, Postman, Vercel |
+  | Workflow | Jupyter, Git, GitHub, VS Code, Postman |
 
-  *This table represents my learning and working areas, not a claim of expert-level
-  proficiency in every listed technology.*
+  *This list includes current tools and learning areas; it should not be interpreted as expert-level proficiency in every item.*
 
 </details>
 
@@ -150,51 +139,46 @@ application deployment, and reusable components.
   <tr>
     <td width="50%" valign="top">
       <h3>📊 Data Warehouse & Analytics</h3>
-      <p><b>Data Analytics · SQL · Python</b></p>
-      <p>A developing analytics project focused on data preparation, warehouse
-      design, dimensional modeling, analytical SQL, and business reporting.</p>
-      <p><b>Planned deliverables:</b> Data model, ETL workflow, SQL analysis,
-      documented business questions, and an interactive BI dashboard.</p>
-      <p><i>Status: In progress</i></p>
+      <p><b>SQL · Python · Data Modeling</b></p>
+      <p>A developing portfolio project focused on preparing data for analysis, designing a dimensional model, and answering business questions with SQL.</p>
+      <p><b>Planned deliverables:</b> Source documentation, data-quality checks, transformation scripts, a star schema, analytical queries, and a BI dashboard.</p>
+      <p><i>Status: In progress — update this section as deliverables are completed.</i></p>
     </td>
     <td width="50%" valign="top">
       <h3>🎓 Edemy LMS</h3>
-      <p><b>React · Full-Stack Development</b></p>
-      <p>A learning management platform featuring reusable UI components,
-      API integration, and user-facing learning workflows.</p>
-      <p><a href="https://edemy-frontend-gilt.vercel.app">🌐 View Live Application</a></p>
+      <p><b>React · Full-Stack Application</b></p>
+      <p>A learning management platform featuring reusable UI components, API integration, and user-facing learning workflows.</p>
+      <p><a href="https://edemy-frontend-gilt.vercel.app">🌐 View live application</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🏠 SRK Interiors</h3>
       <p><b>Frontend · UI Development</b></p>
-      <p>An interior design portfolio website showcasing visual presentation,
-      responsive layouts, and motion-enhanced interactions.</p>
-      <p><a href="https://skinteriors-decorators.netlify.app/">🌐 View Live Website</a></p>
+      <p>An interior design portfolio website focused on visual presentation, responsive layouts, and motion-enhanced interactions.</p>
+      <p><a href="https://skinteriors-decorators.netlify.app/">🌐 View live website</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>🛒 Multi-Vendor E-commerce</h3>
-      <p><b>MERN Stack · Backend Development</b></p>
-      <p>A developing marketplace application focused on product management,
-      user workflows, APIs, and scalable application structure.</p>
+      <p><b>MERN Stack</b></p>
+      <p>A marketplace application in development, focused on product management, user workflows, API design, and application structure.</p>
       <p><i>Status: In development</i></p>
     </td>
   </tr>
 </table>
 
-### 📌 What you'll find in my analytics repositories
+### 📌 What I aim to document in analytics projects
 
-As I publish each project, I aim to include:
-
-- A clear business problem and project requirements.
+- Business problem, requirements, and key questions.
 - Dataset sources, assumptions, and data-quality checks.
 - Reproducible SQL scripts and Python notebooks.
-- Data models and transformation logic.
-- Interactive dashboards and actionable findings.
-- A README explaining the methodology, insights, and limitations.
+- Data model and transformation logic.
+- Visualizations, findings, and practical recommendations.
+- Setup instructions, methodology, and known limitations.
 
-[Explore all my repositories →](https://github.com/R-Mishra25?tab=repositories)
+<a href="https://github.com/R-Mishra25?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+</a>
 
 ---
 
@@ -206,7 +190,7 @@ As I publish each project, I aim to include:
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=R-Mishra25&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
 </a>
 <a href="https://github.com/R-Mishra25">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-Mishra25&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used repository languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-Mishra25&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most-used repository languages" />
 </a>
 
 <br/>
@@ -217,64 +201,56 @@ As I publish each project, I aim to include:
 
 ### 📅 Contribution Activity
 
-<div align="center">
 
-## 📈 My GitHub Activity
 
-[![GitHub Profile](https://img.shields.io/badge/View-GitHub%20Contributions-181717?style=for-the-badge&logo=github)](https://github.com/R-Mishra25)
-
-</div>
-
-<sub>These are dynamically generated widgets. Language statistics reflect code in public repositories, not necessarily overall proficiency. Availability and displayed statistics depend on the widget services and GitHub data.</sub>
+<sub>GitHub statistics and contribution graphs are provided by external services and may occasionally be unavailable. Language statistics describe code in public repositories and are not a measure of overall proficiency.</sub>
 
 ---
 
-## 🧩 How I Approach Problems
+## 🧩 My Data Workflow
 
 ```text
-Business Problem
-      ↓
+Business Question
+       ↓
 Requirements & KPI Definition
-      ↓
+       ↓
 Data Collection and Validation
-      ↓
-SQL / Python / Excel Analysis
-      ↓
-Insights, Visualization & Reporting
-      ↓
-Automation or Application Development
-      ↓
-Testing, Documentation & Improvement
+       ↓
+Cleaning & Transformation
+       ↓
+SQL Analysis / Python Processing
+       ↓
+Data Modeling & Visualization
+       ↓
+Insights, Reporting & Recommendations
+       ↓
+Documentation and Iteration
 ```
 
-My aim is to build solutions that are not only technically sound but also
-useful, explainable, maintainable, and aligned with business requirements.
+I aim to create workflows that are repeatable, explainable, maintainable, and useful for real business decisions.
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm interested in opportunities and collaborations related to:
+I'm interested in opportunities and collaboration related to:
 
 - 📊 Data Analyst and Business Intelligence roles
-- 💻 Full-Stack and Software Development projects
+- 🧱 Entry-level data engineering and ETL projects
 - ⚙️ Reporting, data-quality, and workflow automation
-- 📚 Learning, open-source contributions, and technical discussions
+- 📚 Data projects, open-source learning, and technical discussions
 
 <div align="center">
 
 <a href="https://linkedin.com/in/rahulmishra25">
   <img src="https://img.shields.io/badge/LinkedIn-Rahul%20Mishra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
 </a>
-
 <a href="mailto:rm9193421@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Let's%20Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" />
+  <img src="https://img.shields.io/badge/Email-Let's%20Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Rahul" />
 </a>
 
 <br/><br/>
 
 **Thanks for visiting my profile!**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%" alt="Decorative footer" />
 
 </div>
